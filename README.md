@@ -3,8 +3,6 @@
 ## Table of Contents
 1. [Setup Instructions](#setup-instructions)
 2. [Environment Configuration](#environment-configuration)
-4. [Database Schema](#database-schema)
-5. [Error Handling](#error-handling)
 
 ## Setup Instructions
 
