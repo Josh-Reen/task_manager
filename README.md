@@ -10,6 +10,7 @@
 - Node.js (v18 or higher)
 - npm (v8 or higher)
 - Git
+- For Database i have used mongodb
 
 ### Installation Steps
 ```bash
@@ -28,7 +29,8 @@ npm init -y
 npm install 
 
 # Install dev dependencies
-npm install 
+npm install
+including mongoose
 
 After installations
 the server runs on port 5000
