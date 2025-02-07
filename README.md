@@ -57,7 +57,7 @@ task_manager/
 │   └── server.js
 ├── .env
 ├── package.json
-└── tsconfig.json
+
 ```
 
 ### Running the Application
