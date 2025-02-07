@@ -25,10 +25,10 @@ cd task_manager
 npm init -y
 
 # Install dependencies
-npm install express cors sequelize sqlite3 bcryptjs jsonwebtoken dotenv winston
+npm install 
 
 # Install dev dependencies
-npm install -D typescript @types/node @types/express @types/cors @types/bcryptjs @types/jsonwebtoken ts-node nodemon @typescript-eslint/eslint-plugin @typescript-eslint/parser eslint
+npm install 
 
 After installations
 the server runs on port 5000
