@@ -28,6 +28,11 @@ app.use('/api/auth', authRoutes);
 app.use('/api/tasks', authMiddleware, taskRoutes);
 app.use('/api/users', authMiddleware, userRoutes);
 
+app.get('/', (req, res) => {
+  res.send('Backend API is running...');
+});
+
+
 // Error handling middleware
 app.use((err, req, res, next) => {
   console.error(err.stack);
